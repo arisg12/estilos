@@ -1,33 +1,30 @@
 <html>
 <head>
-  <title>Mi primera página con estilo</title>
+  <title>estilos basicos</title>
 </head>
 
 <body>
 
 <!-- Menú de navegación del sitio -->
 <ul class="navbar">
-  <li><a href="indice.html">Página principal</a>
-  <li><a href="meditaciones.html">Meditaciones</a>
-  <li><a href="ciudad.html">Mi ciudad</a>
-  <li><a href="enlaces.html">Enlaces</a>
+  <li><a href="àginaprincipal.html">Página principal</a>
+  <li><a href="areaheyst.html">area he y st</a>
+  <li><a href="estilosin.html">estilos in</a>
+  <li><a href="4mezclasdelos3.html">4 mezclas de los 3</a>
 </ul>
 
 <!-- Contenido principal -->
-<h1>Mi primera página con estilo</h1>
+<h1>Los paisajes</h1>
 
 <p>¡Bienvenido a mi primera página con estilo!
 
-<p>No tiene imágenes, pero tiene estilo.
-También tiene enlaces, aunque no te lleven a
-ningún sitio…
+<p>El paisaje es la extensión de terreno que puede apreciarse desde un sitio. Puede decirse que es todo aquello que ingresa en el campo visual desde un determinado lugar. Por ejemplo: “El paisaje de Bariloche es espectacular”, “Quiero ir a un lugar que tenga un paisaje bonito, con montañas y lagos”.…
 
-<p>Debería haber más cosas aquí, pero todavía no sé
-qué poner.
+<p>“Los edificios construidos en la costa han arruinado el paisaje de la ciudad”
 
 <!-- Firma y fecha de la página, ¡sólo por cortesía! -->
-<address>Creada el 5 de abril de 2004<br>
-  por mí mismo.</address>
+<address>Creada el 25 de Noviembre de 2019<br>
+  por Aristides.</address>
 
 </body>
 </html>
